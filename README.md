@@ -20,4 +20,9 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 <img width="1626" height="369" alt="integration-runtime-azure" src="https://github.com/user-attachments/assets/7a3be463-ba49-44fa-a225-2afd1261f5fc" />
 <img width="628" height="903" alt="New LS connection success" src="https://github.com/user-attachments/assets/90da4917-c6e4-4015-a922-0d3880aff0cc" />
 
+2. Got Data from on prem system using copy activity and get meta data, also appplied dynamic mapping to all 3 csv files
+
+<img width="1234" height="413" alt="pipeline_csv_ingestion_1" src="https://github.com/user-attachments/assets/0886596e-9cf2-4531-9373-ec16d4792e39" />
+<img width="1299" height="797" alt="pipeline_csv_ingestion_2" src="https://github.com/user-attachments/assets/03e679e3-3cb2-48a5-b7ab-f9e804756027" />
+
 
