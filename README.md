@@ -13,4 +13,11 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 •	Logic App
 •	Azure SQL
 
+**Steps:**
+1. Created an integration runtime to connect on prem system to azure using self hosted integration runtime by azure.
+
+<img width="785" height="558" alt="integration-runtime" src="https://github.com/user-attachments/assets/20cb815a-b5a0-491d-91b6-7218642a1909" />
+<img width="1626" height="369" alt="integration-runtime-azure" src="https://github.com/user-attachments/assets/7a3be463-ba49-44fa-a225-2afd1261f5fc" />
+<img width="628" height="903" alt="New LS connection success" src="https://github.com/user-attachments/assets/90da4917-c6e4-4015-a922-0d3880aff0cc" />
+
 
