@@ -53,7 +53,8 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 
 <img width="1625" height="771" alt="logic-app" src="https://github.com/user-attachments/assets/03466e4e-3043-4d22-bf09-63a2ccb46630" />
 <img width="1566" height="833" alt="web alert" src="https://github.com/user-attachments/assets/af67a30b-ef49-4074-93d6-5cd8b26adef6" />
-<img width="970" height="460" alt="pipeline alert" src="https://github.com/user-attachments/assets/25d8560b-f86f-4de1-83bb-43b433a152be" />
+<img width="967" height="468" alt="pipeline alert" src="https://github.com/user-attachments/assets/594104dc-8d50-413c-a152-43ce97fd1fd5" />
+
 
 
 8. Automated pipeline runs by using triggers
