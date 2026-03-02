@@ -6,3 +6,11 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 **Parent Pipeline:**
 <img width="992" height="239" alt="image" src="https://github.com/user-attachments/assets/7e0fdf65-bf9b-40ac-b86a-2709603ab631" />
 
+**Tech Used:**
+•	Azure Data Factory (ADF)
+•	Azure Data Lake Storage (ADLS)
+•	Integration Runtime (IR)
+•	Logic App
+•	Azure SQL
+
+
