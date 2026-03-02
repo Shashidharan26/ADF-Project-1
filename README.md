@@ -6,21 +6,21 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest data from m
 
 **Key Features:**
 
-Multi-source data ingestion (CSV, API, Azure SQL)
+1. Multi-source data ingestion (CSV, API, Azure SQL)
 
-Self-hosted Integration Runtime for on-prem connection
+2. Self-hosted Integration Runtime for on-prem connection
 
-Incremental data loading from Azure SQL
+3. Incremental data loading from Azure SQL
 
-Bronze → Silver → Gold data processing
+4. Bronze → Silver → Gold data processing
 
-Mapping Data Flow transformations
+5. Mapping Data Flow transformations
 
-Delta Lake sink for business view
+6. Delta Lake sink for business view
 
-Pipeline monitoring using Logic App alerts
+7. Pipeline monitoring using Logic App alerts
 
-Trigger-based automation
+8. Trigger-based automation
 
 **Parent Pipeline:**
 <img width="992" height="239" alt="image" src="https://github.com/user-attachments/assets/7e0fdf65-bf9b-40ac-b86a-2709603ab631" />
