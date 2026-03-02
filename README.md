@@ -54,11 +54,26 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 <img width="1625" height="771" alt="logic-app" src="https://github.com/user-attachments/assets/03466e4e-3043-4d22-bf09-63a2ccb46630" />
 <img width="1566" height="833" alt="web alert" src="https://github.com/user-attachments/assets/af67a30b-ef49-4074-93d6-5cd8b26adef6" />
 
-8. AUtomated pipeline runs by using triggers
+8. Automated pipeline runs by using triggers
 
 <img width="1550" height="185" alt="trigger" src="https://github.com/user-attachments/assets/b3afb8f9-9eb6-4c52-a1af-448f4d457556" />
 <img width="1642" height="454" alt="triggered pipeline run" src="https://github.com/user-attachments/assets/aac4c63c-1074-4bf0-8ef5-c9c48d6ea735" />
 <img width="1613" height="224" alt="Trigger_Run Success" src="https://github.com/user-attachments/assets/7b2f14a9-f250-4655-afed-19b0ec46e549" />
+
+9. Saved Progress in Git and generated ARM Template for the completed Pipeline
+
+<img width="870" height="565" alt="git_showcase" src="https://github.com/user-attachments/assets/30b47215-2e2d-4f6b-acb8-8980e8bc2e5e" />
+<img width="1610" height="466" alt="arm template" src="https://github.com/user-attachments/assets/d23b9e5c-86e3-4803-8b8f-9f44605ffc59" />
+
+10. Final view of the Data Lake and medallion layers after pipeline completion
+
+<img width="1396" height="328" alt="storage_account" src="https://github.com/user-attachments/assets/db8b2fc8-deeb-4fb7-9677-57ae8f46b114" />
+<img width="1493" height="384" alt="medallion-bronze container" src="https://github.com/user-attachments/assets/6f7f4901-fe4d-4486-b202-31e6a45f02d5" />
+<img width="1607" height="412" alt="medallion-silver" src="https://github.com/user-attachments/assets/fb212e2e-ffa0-4340-b0bd-a59c77e2af1a" />
+<img width="1644" height="367" alt="medallion-gold" src="https://github.com/user-attachments/assets/376b31c3-72a3-4968-ae92-e9012afc2d13" />
+
+
+
 
 
 
