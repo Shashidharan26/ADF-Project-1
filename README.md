@@ -41,6 +41,20 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 <img width="1535" height="788" alt="initial_load" src="https://github.com/user-attachments/assets/f391919d-28ba-4241-b13c-0d47905dcda8" />
 <img width="1574" height="825" alt="incremental_load" src="https://github.com/user-attachments/assets/3d44206b-6d87-4b84-85a5-ad67e2e6dc0e" />
 
+5. Performed Transformation using Data FLow and ingested transformed data into silver layer
+
+<img width="1227" height="344" alt="dataflow_silver" src="https://github.com/user-attachments/assets/5c614ce6-7248-40ca-9516-00ef2ecac9a1" />
+
+6. Performed Transformation using Data Flow and ingested Aggregated data into gold layer
+
+<img width="1494" height="369" alt="dataflow_gold" src="https://github.com/user-attachments/assets/3b5f33bf-94db-4fbc-8148-956eaa2fcf46" />
+
+7.
+
+
+
+
+
 
 
 
