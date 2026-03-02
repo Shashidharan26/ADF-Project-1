@@ -49,7 +49,13 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 
 <img width="1494" height="369" alt="dataflow_gold" src="https://github.com/user-attachments/assets/3b5f33bf-94db-4fbc-8148-956eaa2fcf46" />
 
-7.
+7.Created Logic app alerts to recieve update on pipeline runs
+
+<img width="1566" height="833" alt="web alert" src="https://github.com/user-attachments/assets/af67a30b-ef49-4074-93d6-5cd8b26adef6" />
+<img width="1625" height="771" alt="logic-app" src="https://github.com/user-attachments/assets/03466e4e-3043-4d22-bf09-63a2ccb46630" />
+
+
+
 
 
 
