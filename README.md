@@ -24,14 +24,23 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 
 
 
-2. Ingested Data from on prem system using get meta data, for each activity and copy activity, also appplied dynamic mapping to all 3 csv files
+2. Ingested Data from on prem system using get meta data, for each activity and copy activity, also appplied dynamic mapping to all 3 csv files.
 
 <img width="1234" height="413" alt="pipeline_csv_ingestion_1" src="https://github.com/user-attachments/assets/0886596e-9cf2-4531-9373-ec16d4792e39" />
 <img width="1299" height="797" alt="pipeline_csv_ingestion_2" src="https://github.com/user-attachments/assets/03e679e3-3cb2-48a5-b7ab-f9e804756027" />
 
 
 
-3. Ingested json Data from github using api call
+3. Ingested json Data from github using api call.
 
 <img width="1345" height="802" alt="pipeline_api_ingestion" src="https://github.com/user-attachments/assets/cb7f9368-88e6-4101-a65c-cbfe8a7185c1" />
+
+4. Ingested SQL Data Incrementally from Azure SQL.
+
+<img width="1290" height="783" alt="pipeline_sql_ingestion_incremental loading" src="https://github.com/user-attachments/assets/ed5a68a1-21b6-4b90-96e8-e366cf4f01fc" />
+<img width="1535" height="788" alt="initial_load" src="https://github.com/user-attachments/assets/f391919d-28ba-4241-b13c-0d47905dcda8" />
+<img width="1574" height="825" alt="incremental_load" src="https://github.com/user-attachments/assets/3d44206b-6d87-4b84-85a5-ad67e2e6dc0e" />
+
+
+
 
