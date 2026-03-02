@@ -55,6 +55,8 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 <img width="1566" height="833" alt="web alert" src="https://github.com/user-attachments/assets/af67a30b-ef49-4074-93d6-5cd8b26adef6" />
 <img width="967" height="468" alt="pipeline alert" src="https://github.com/user-attachments/assets/594104dc-8d50-413c-a152-43ce97fd1fd5" />
 
+Note: Connected 'On Success' node alone for testing purposes, we can connect on 'on fail' and 'on skip' to trigger alerts if any pipeline fails.
+
 
 
 8. Automated pipeline runs by using triggers
