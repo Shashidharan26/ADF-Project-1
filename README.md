@@ -1,6 +1,6 @@
 # End-to-End Data Pipeline using Azure Data Factory
 
-Summary:
+**Summary:**
 Built an end-to-end data pipeline using Azure Data Factory to ingest, transform, and load data using Medallion Architecture. The pipeline incrementally loads JSON, SQL, CSV data from on-prem, API and Azure SQL database into bronze layer, applies transformations using Dataflows on bronze layer and loads it into silver layer, and stores data in gold layers as inline Delta Lake dataset format for Business View.
 
 Parent Pipeline:
