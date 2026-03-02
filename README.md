@@ -97,6 +97,9 @@ Note: Connected 'On Success' node alone for testing purposes, we can connect on 
 <img width="1625" height="360" alt="delta-gold-dta" src="https://github.com/user-attachments/assets/b4411a1d-3898-4c6f-b0d3-4c11c1d2892a" />
 
 
+Note: Sorry, I cannot provide the ARM Template or generated code for the project as it holds personal credentials
+
+
 
 
 
