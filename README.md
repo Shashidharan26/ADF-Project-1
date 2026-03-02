@@ -65,11 +65,13 @@ Built an end-to-end data pipeline using Azure Data Factory to ingest, transform,
 <img width="870" height="565" alt="git_showcase" src="https://github.com/user-attachments/assets/30b47215-2e2d-4f6b-acb8-8980e8bc2e5e" />
 <img width="1610" height="466" alt="arm template" src="https://github.com/user-attachments/assets/d23b9e5c-86e3-4803-8b8f-9f44605ffc59" />
 
-10. Final view of the Data Lake and medallion layers after pipeline completion
+10. Final view of medallion layers after pipeline completion
 
 <img width="1493" height="384" alt="medallion-bronze container" src="https://github.com/user-attachments/assets/6f7f4901-fe4d-4486-b202-31e6a45f02d5" />
 <img width="1607" height="412" alt="medallion-silver" src="https://github.com/user-attachments/assets/fb212e2e-ffa0-4340-b0bd-a59c77e2af1a" />
 <img width="1644" height="367" alt="medallion-gold" src="https://github.com/user-attachments/assets/376b31c3-72a3-4968-ae92-e9012afc2d13" />
+<img width="1625" height="360" alt="delta-gold-dta" src="https://github.com/user-attachments/assets/b4411a1d-3898-4c6f-b0d3-4c11c1d2892a" />
+
 
 
 
